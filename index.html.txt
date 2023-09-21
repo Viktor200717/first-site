@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>My website</title>
+</head>
+<header>
+    <h1>Viktor the best</h1>
+</header>
+<body>
+    <nav>
+        <a href="http://zsdios.pl/">Technikum</a>
+    </nav>
+       <h2>Welcome to my website</h2>
+</body>
+
+
+</html>
